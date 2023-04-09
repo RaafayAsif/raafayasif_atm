@@ -1,0 +1,30 @@
+{
+  "name": "raafayasif_atm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "raafayasif_atm": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaafayAsif/raafayasif_atm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaafayAsif/raafayasif_atm/issues"
+  },
+  "homepage": "https://github.com/RaafayAsif/raafayasif_atm#readme",
+  "dependencies": {
+    "inquirer": "^9.1.5"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
